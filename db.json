@@ -1,6 +1,5 @@
 
-{
-  [
+[
   {
     "id":"1",
     "name": "naveen",
@@ -13,5 +12,5 @@
     "name": "naveen",
     "email":"lalala",
     "message":"testing"
-  }]
-}
+  }
+]
